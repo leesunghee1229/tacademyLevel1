@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleBasicWidget</string>
+    <string name="change_text_message">change text message</string>
+    <string name="html_text"><![CDATA[<font color="red">Hi</font>, <h1>Android</h1>]]></string>
+</resources>
